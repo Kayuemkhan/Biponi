@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Biponi</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="find_discover_choose_and_buy">Find, Discover , Choose and Buy</string>
+</resources>
