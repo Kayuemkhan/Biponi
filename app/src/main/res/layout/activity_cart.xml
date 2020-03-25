@@ -47,6 +47,7 @@
         android:id="@+id/cart_list"
         android:layout_below="@+id/rl11"
         android:layout_above="@+id/next_btn"
+        tools:listitem="@layout/cart_items_layout"
         />
     <Button
         android:layout_width="match_parent"

@@ -49,6 +49,7 @@
         android:layout_height="match_parent"
         android:id="@+id/search_list"
         android:layout_below="@+id/r5"
+        tools:listitem="@layout/products_items_layout"
         >
 
     </androidx.recyclerview.widget.RecyclerView>
