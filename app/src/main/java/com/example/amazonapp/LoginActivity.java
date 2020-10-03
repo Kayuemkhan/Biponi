@@ -21,11 +21,12 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.rengwuxian.materialedittext.MaterialEditText;
 
 import io.paperdb.Paper;
 
 public class LoginActivity extends AppCompatActivity {
-    private EditText InputNumber, InputPassword;
+    private MaterialEditText InputNumber, InputPassword;
     private Button LoginButton;
     ProgressDialog loadingBar1;
     private TextView AdminLink,NotAdmin,signupbtn;
