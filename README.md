@@ -1,4 +1,21 @@
 # Biponi
+## **Topics Covered**
+### Features:
+1. Sign in with Firebase
+2. Sign Up with Firebase
+3. Order Item
+4. Delivery Item
+5. Add Item to Cart 
+
+### Project Description:
+
+We build a E-commerce Type app which has contained all the features what we can do in the e-commerce. We can order from customer apps and can delivery from admin apps.
+
+### Run the project
+Sync the `Gradle` and run the project. Install APK on your emulator or real device. Turn on the internet of your testing device. For better understanding, please read the comments of every methods. Hope, these comments will help you to feel to bulild an e-commerce app.
+
+
+### Screenshoots
 <img src="https://user-images.githubusercontent.com/28877375/77596921-90aebd80-6f27-11ea-91c2-9f69a45b8a67.jpg" width="350" height="550">
 <img src="https://user-images.githubusercontent.com/28877375/77596924-91dfea80-6f27-11ea-979e-f1b530020576.jpg" width="350" height="550">
 <img src="https://user-images.githubusercontent.com/28877375/77596928-93a9ae00-6f27-11ea-8373-ae70620d87c8.jpg" width="350" height="550">
